@@ -1,6 +1,6 @@
 REM DATE: 20191016
-REM AUTHOR: nuno.moura@onesource.pt
-REM AUTHOR: POWERED BY MICROSOFT ADMINS COMMUNITY
+REM AUTHOR: nuno.moura@outlook.pt
+REM AUTHOR: POWERED BY MICROSOFT COMMUNITY
 
 REM some usefull info:
 REM https://helpdeskgeek.com/how-to/generate-a-list-of-installed-programs-in-windows/
