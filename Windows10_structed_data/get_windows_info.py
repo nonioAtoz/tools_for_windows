@@ -363,7 +363,7 @@ def run_main():
     parser = argparse.ArgumentParser()
 
     parser.add_argument("-t", '--type', dest='type', choices=[ 'system', 'interfaces', 'programs', 'environment'],
-                        help="We will try to output: system info, interface info, or installed programs. \r If  "
+                        help="We will try to output: system info, interface info, environment variables data or installed programs. \r If  "
                              "'type' is not set We will try to output ALL")
     # setting a variable True or False, have a look here (specifically store_true and store_false)
     parser.add_argument('-r', action='store_true' )
